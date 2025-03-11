@@ -50455,7 +50455,7 @@ m8(){var s=0,r=A.T(t.H),q=1,p,o=this,n,m,l,k,j,i
 var $async$m8=A.U(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return A.Z(A.ano(A.fm("https://34.29.16.12/random-quote")),$async$m8)
+return A.Z(A.ano(A.fm("https://quote-app.azurewebsites.net/random-quote")),$async$m8)
 case 6:n=b
 if(n.b===200){l=n
 l=J.d_(J.b4(B.bd.u5(0,A.ab6(A.aah(l.e).c.a.i(0,"charset")).cQ(0,l.w),null),"text"))
